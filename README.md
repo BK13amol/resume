@@ -60,11 +60,4 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BK13amol&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BK13amol&layout=compact&theme=tokyonight)  
-
----
-
 ⭐️ From [Bhushan Kumar](https://github.com/BK13amol)
